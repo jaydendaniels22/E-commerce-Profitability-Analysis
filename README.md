@@ -1,8 +1,8 @@
 # E-commerce-Profitability-Analysis Project
 # https://analystbuilder.com/projects/e-commerce-profitability-analysis-KvrTi
 
-This project takes three raw CSV files that are then cleaned in Excel:
-`marketing_spend.csv` -> Marketing campaigns launched through various mediums
+This project takes three raw CSV files that are then cleaned in a Python script `clean_data.py`:
+`marketing_spend.csv` -> Marketing campaigns launched through various sales channels
 `orders.csv` -> All customer product orders
 `products.csv` -> All products that the business sells
 

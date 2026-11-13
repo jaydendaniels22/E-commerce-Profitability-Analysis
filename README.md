@@ -1,10 +1,7 @@
 # E-commerce-Profitability-Analysis Project
 # https://analystbuilder.com/projects/e-commerce-profitability-analysis-KvrTi
 
-This project takes three raw CSV files that are then cleaned in a Python script `clean_data.py`:
-`marketing_spend.csv` -> Marketing campaigns launched through various sales channels
-`orders.csv` -> All customer product orders
-`products.csv` -> All products that the business sells
+Cleaning is handled by clean_data.py, which strips the UTF-8 BOM from products.csv, parses marketing_spend.month, and asserts both cost integrity and the gross-to-net bridge before writing. The reconciliation block re-derives every headline figure and fails the script if anything drifts
 
 # Problems
 

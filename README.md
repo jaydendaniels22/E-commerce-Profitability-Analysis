@@ -75,7 +75,7 @@ Cost drivers are shown as a % of gross revenue.
 | Toys | 26.15% | 39.94 | 17.25 | 7.72 | 6.32 | 71.23 |
 | Electronics | 31.13% | 38.00 | 13.50 | 7.40 | 7.71 | 66.61 |
 
-The company-wide margin is 23.84%. **Books is the least profitable category (11.94%).** Among the categories with a margin figure, **Home & Kitchen is the most profitable (25.37%)**.
+The company-wide margin is 23.84%. **Books is the least profitable category (11.94%).** Among the categories with a margin figure, **Electronics is the most profitable (31.13%)**.
 
 **Shipping is the main driver.** Product cost is almost the same everywhere (38% to 42%) and discounts are a minor factor (6.5% to 8.4%). Shipping, however, ranges from 13.5% (Electronics) to 27.94% (Books). Comparing Books with Home & Kitchen, the gap in total cost is 13.0 points, of which shipping accounts for 11.8 (27.94% vs 16.16%), refunds 1.8 (9.40% vs 7.58%), discounts -0.6 and product cost nothing. Beauty has the second-highest shipping burden (24.79%). Clothing's weakness is a mix of shipping (19.84%) and returns (8.55%). For the categories with a margin figure, the margin ranking follows the total of the four cost percentages exactly.
 
